@@ -105,6 +105,6 @@ print('\nPrecisão do teste:', test_acc)
 
 ## Resultados
 
-Após o treinamento, a precisão do modelo nos dados de teste será exibida no terminal. Além disso, previsões de amostras de itens individuais serão visualizadas usando as funções plot_image e plot_value_array.
+Após o treinamento, a precisão do modelo nos dados de teste será exibida no terminal. Além disso, previsões de amostras de itens individuais serão visualizadas usando as funções plot_image e plot_valor_array.
 
 Este código fornece um exemplo simples de classificação de imagens usando técnicas de aprendizado profundo com TensorFlow e Keras. Você pode personalizar e aprimorar ainda mais o modelo para o seu caso de uso específico.
